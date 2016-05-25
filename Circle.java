@@ -1,5 +1,9 @@
 ﻿import edu.princeton.cs.algs4.*;
 //import java.lang.Math.*;
+
+
+
+//Circle
 public class Circle
 {
   private static final Double delta = 3.;
@@ -14,6 +18,10 @@ public class Circle
     this.mux = mux;
     this.muy = muy;
   }
+  
+  
+  
+  
   //Draw() 画出圆的图形
   public void Draw()
   {
