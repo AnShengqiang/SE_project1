@@ -1,0 +1,17 @@
+commit e3f2e3524f958ecb2896078b21d0d125c774c0c2
+Author: anshengqiang <a18771733969@gmail.com>
+Date:   Wed May 25 17:32:07 2016 +0800
+
+    不同情况下的测试图片
+
+commit b5c35ec1f31c44f808c04e49b86ce12d50d275b3
+Author: anshengqiang <a18771733969@gmail.com>
+Date:   Wed May 25 17:31:12 2016 +0800
+
+    主要算法实现
+
+commit d62fe2611a217d249315332226dfb713adfbaa8c
+Author: anshengqiang <a18771733969@gmail.com>
+Date:   Wed May 25 17:29:03 2016 +0800
+
+    :octocat: Added .gitattributes & .gitignore files
