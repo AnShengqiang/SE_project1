@@ -1,4 +1,11 @@
+//Thanks for Moon Monkey's help!
+
+
+
 import edu.princeton.cs.algs4.*;
+
+
+//main
 public class main{
   public static void main(String[] args) {
     int m;
@@ -22,6 +29,10 @@ public class main{
     //Circle c = new Circle(z,0,0.5);
     //StdOut.println("sin(30d) is :"+z+" PI: "+ Math.PI);
   }
+  
+  
+  
+  //confirmCircle
   public static void confirmCir(Circle cir[],int m)
   {
     //Choose x,y,r of circle[i]
